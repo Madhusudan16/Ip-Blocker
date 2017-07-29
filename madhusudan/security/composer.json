@@ -1,0 +1,14 @@
+{
+    "name": "madhusudan/security",
+    "description": "This package block provided ip",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Madhusudan",
+            "email": "madhusudan.s@msp-group.co.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "files": ["src/helper/ipblocker_helper.php"],
+    "require": {}
+}
